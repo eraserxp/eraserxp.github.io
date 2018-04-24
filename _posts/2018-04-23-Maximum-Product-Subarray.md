@@ -1,6 +1,6 @@
 Maximum Product Subarray
 
-https://oj.leetcode.com/problems/maximum-product-subarray/
+[https://oj.leetcode.com/problems/maximum-product-subarray/](https://oj.leetcode.com/problems/maximum-product-subarray/)
 
 * 遍历数组，想象我们记录一个sub array, 这个sub array里面元素的乘积就对应当前已知的极值。每次访问一个元素时，我们需要更新这个sub array和极值，有两种选择：
   * 把该元素放入考虑的sub array中
